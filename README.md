@@ -1,2 +1,2 @@
 # auth-simples
-Autenticação simples com ASP.NET MVC e Razor Pages
+Exemplo de autenticação simples e fácil usando ASP.NET Core MVC e Razor Pages com .NET 8
